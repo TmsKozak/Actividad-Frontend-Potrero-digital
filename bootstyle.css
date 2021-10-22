@@ -1,0 +1,13 @@
+.Grupo1{
+    color: black;
+    display:flex; justify-content: center; flex-direction: column; 
+}
+.Grupo3{
+    display: grid;
+    justify-content: space-between;
+    height: 400px;
+}
+.Grupo4{
+    height: 150%;
+    width: 150%
+}
